@@ -1,8 +1,6 @@
-DEMO FOR BRANCHING
-
+DEMO FOR BRANCHING - I am making a conflict in a merge right now
 
 DEMO FOR FAST FORWARD
-
 
 DEMO FOR NO FAST FORWARD
 
