@@ -1,6 +1,10 @@
 DEMO FOR BRANCHING
 
 
+DEMO FOR FAST FORWARD
+
+
+
 hi t1 1
 hi again
 bye t1
