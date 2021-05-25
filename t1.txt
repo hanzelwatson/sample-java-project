@@ -1,8 +1,6 @@
-DEMO FOR BRANCHING
-
+DEMO FOR BRANCHING - and now this will make a conflict (hopefully)
 
 DEMO FOR FAST FORWARD
-
 
 DEMO FOR NO FAST FORWARD
 
